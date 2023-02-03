@@ -63,8 +63,8 @@ function Sign_up() {
                 <Input styleI="input" styleL="label" name="usuario" id="usuario" data="Usuario" type="text"/>
                 <Input styleI="input" styleL="label" name="correo" id="correo" data="Correo electronico" type="text"/>
                 <Input styleI="input" styleL="label" name="contrasenia" id="contrasenia" data="Contraseña" type="password"/>
-                <center><button type="button" className="btn" onClick={handlerClick}>Registrarse</button>
-                <label>{state}</label></center>
+                <center><button type="button" className="btn" onClick={handlerClick}>Registrarse</button></center>
+                <label>{state}</label>
             </form>
         </center>
     </>);

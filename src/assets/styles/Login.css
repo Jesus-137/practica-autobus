@@ -5,27 +5,21 @@ form{
     justify-content: center;
     font-size: 200%;
     box-shadow: 1Px 2px 10px 3px;
-    width: 60%;
+    width: 50%;
     padding: 0.7%;
     background-color: aqua;
     margin-bottom: 2%;
-}
-div{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: center;
 }
 .input{
     background-color: rgba(59, 235, 68, 0.453);
     border: 0;
     box-shadow: 0px 0px 3px 0px;
-    width: 50%;
+    width: 80%;
     font-size: 120%;
     margin: 2% 1%;
 }
 .btn{
-    width: 50%;
+    width: 80%;
     background: #654ea3;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
