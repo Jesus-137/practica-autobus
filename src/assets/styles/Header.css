@@ -1,0 +1,11 @@
+Header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-bottom: 5px solid black;
+}
+
+img{
+    width: 5%;
+}
